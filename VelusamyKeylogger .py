@@ -6,7 +6,7 @@ import json
 # Global variables
 keys_used = []
 flag = False
-output_file = 'sundhar key_log.json'
+output_file = 'velusamyKeylogger.json'
 
 # Function to generate log files
 def generate_log(data, file_path):
